@@ -1,4 +1,7 @@
+
 # Code-Gassing-Game
+
+Play now https://praveenpal4232.github.io/code-gassing-game/
 
 If you think you want to be a hacker it may be a good thing for you or maybe not. It is a simple code guessing / creating game or tool. it helps you to get a perfect guess for the code you don't know what it is. The goodness of this game everything is random, nothing is predefined.
 
